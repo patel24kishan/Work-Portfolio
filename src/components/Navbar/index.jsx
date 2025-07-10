@@ -49,7 +49,6 @@ const Navbar=()=>{
                 <NavLink href='#experience'>Experience</NavLink>
                 <NavLink href='#skills'>Skills</NavLink>
                 <NavLink href='#education'>Education</NavLink>
-                <NavLink href={Bio.blog} target="_Blank">Blog</NavLink>
             </NavItems>
             <ButtonContainer>
 

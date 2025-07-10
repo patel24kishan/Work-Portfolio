@@ -14,7 +14,6 @@ export const Bio = {
   github: "https://github.com/patel24kishan",
   discord: "",
   facebook: "",
-  blog: "https://www.speakless.blog/",
 };
 
 export const skills = [
