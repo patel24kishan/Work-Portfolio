@@ -2,7 +2,7 @@ export const Bio = {
   name: "Kishan",
   roles: ["a Software Developer", "a Software Programmer", "Cloud Engineer"],
   description:
-    "As creative developer focused on building engaging gameplay systems and interactive experiences. I’m passionate about creating memorable experiences and exploring new ideas in Gaming as a Services, Cloud Gaming, and AR.",
+"With hands-on experience building mobile apps and developing scalable backend systems for cloud-based services. My work often involves developing full-stacks applcations based on client specifications. I strive for clarity, collaboration, and continuous learning.",
   github: "https://github.com/patel24kishan",
   resume_gamedeveloper:
     "https://drive.google.com/file/d/1S5b_6PfrsLJlioTRo7EZbpLrTOmo26Ma/view?usp=drive_link",
@@ -224,244 +224,57 @@ export const experiences = [
 export const projects = [
 
    //Unreal Games
-   {
-    id: -4,
-    title: "3D Platformer",
-    date: "2025",
-    description:
-      "Learned level design with fun obstacles and engaging gameplay. ",
-    image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/7b14ef24-483c-43a6-a0a8-e6b3acd3a75c_scaled.jpg",
-    tags: ["Unreal", "C++", "Blueprint"],
-    category: "unreal",
-   github: "https://gitlab.com/kishan24patel/3d-platformer",
-    action: "",
-    actionBtn: "Gameplay",
-  }, 
-   {
-    id: -4,
-    title: "Tank it",
-    date: "2025",
-    description:
-      "Shooting tank attack proximity tracking turrets with cool smoke animations. ",
-    image: "https://gamesbeat.com/wp-content/uploads/2025/05/world-of-tanks-20.jpg",
-    tags: ["Unreal", "C++", "Blueprint","AnimGraph",""],
-    category: "unreal",
-   github: "https://gitlab.com/kishan24patel/tank-it",
-    action: "https://youtu.be/uojSqNUPAJc",
-    actionBtn: "Gameplay",
-  },
-    {
-    id: -3,
-    title: "Quest Raider",
-    date: "2025",
-    description:
-      "Immersive first-person quest with dynamic puzzles, powered by Unreal’s GAS, Lumen lighting, and custom C++ mechanics.",
-    image: "https://miro.medium.com/v2/resize:fit:1200/0*CME_fwKZ7g75TRuj.jpg",
-    tags: ["Unreal", "C++", "Blueprint","AnimGraph/BlendSpace","AI"],
-    category: "unreal",
-   github: "https://gitlab.com/kishan24patel/quest-raider",
-    action: "https://youtu.be/QlD0JzGOHkk",
-    actionBtn: "GamePlay",
-  },
  {
     id: -2,
     title: "Third Person Shooter",
-    date: "2025",
+    date: "2024-Present",
     description:
-      "A console-ready shooting Chaos offering dynamic movements, fluid combat, and reactive AI.",
+      "developing backend database sytem using centralized API gateway for Astro Studio.",
     image: "https://gameassetsfree.com/assets/105953-invector-shooter-cover-add-on-0-8-unity/105953-invector-shooter-cover-add-on-0-8-unity.webp",
-    tags: ["Unreal", "C++", "Blueprint","AnimGraph/BlendSpace","AI"],
-    category: "unreal",
+    tags: ["Unreal", "C++", "Blueprint","MongoDB", "SOAP/REST APIs"],
+    category: "game",
     github: "https://gitlab.com/kishan24patel/third_person_shooter",
     action: "https://youtu.be/x_k_9Ft1_pk",
     actionBtn: "GamePlay",
   },
 
-  {
-    id: -1,
-    title: "Target Shooter",
-    date: "2024",
-    description:
-      "Built First-Person Shooter using Unreal Engine and Blueprint, designing game mechanics utilized Chaos Physics to enhance user experience",
-    image: "https://img.freepik.com/free-photo/3d-rendering-arrow-hitting-target_23-2151266483.jpg",
-    tags: ["Unreal Engine", "C++", "Blueprint", "Chaos Physics"],
-    category: "unreal",
-    github: "https://gitlab.com/kishan24patel/target-shooter",
-    action: "https://www.youtube.com/Gameplay?v=Lp46QFgKyKM",
-    actionBtn: "Gameplay",
-  },
-
   //Unity Games
 
   {
-    id: 1,
-    title: "OuiChef",
-    date: "Dec 2023 - Mar 2024",
+    id: 0,
+    title: "Scarfall",
+    date: "2019-2020",
     description:
-      "Multiplayer cookoff with single palyer mode offering time-based challenges for PC.",
-    image:
-      "https://files.ably.io/ghost/prod/2022/06/multiplayer-unity-game-with-ably.png",
-    tags: [
-      "Unity",
-      "C#",
-      "Cinemachine",
-      "Netcode",
-      "Unity Cloud",
-      "Addressables",
-    ],
-    category: "unity",
-    github: "https://github.com/patel24kishan/OuiChef-SinglePlayer",
-    action: "https://ghosts24.itch.io/oui-chef",
+      "Developed scalable cloud-backed services and gameplay systems for ScarFall 2.0 Mobile title.",
+    image: "https://static.wixstatic.com/media/5e090e_76eb56db0ec04d30a913efe32280fe61~mv2.jpg/v1/fill/w_196,h_196,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/scarfall-logo.jpg",
+    tags: ["Unity", "C#", "Photon", "Unity Cloud"],
+    category: "game",
+    github: "",
+    action: "https://https://scarfall.in/.itch.io/galaxyshooter",
     actionBtn: "Play",
   },
 
-  {
+   {
     id: 2,
-    title: "Fruit-Punch",
-    date: "Sept 2023 - Nov 2023",
+    title: "Dating Square",
+    date: "Dec 2024 - Mar 2025",
     description:
-      "3D endless game similar to Fruit Ninja's gameplay mechanics with crate replacing fruits.",
+      "Developd Agora-based chat feature for 65Square, a privacy-focused social media platform with 1,000+ Android/iOS users. ",
     image:
-      "https://www.freevector.com/uploads/vector/preview/30763/SummerFoods_10.jpg",
+      "https://helpusdefend.com/wp-content/uploads/2023/07/datingsquare_on-white-1-300x300.jpg",
     tags: [
+    "Mobile",
       "Unity",
       "C#",
-      "Cinemachine",
-      "Photoshop",
+      "Agora",
       "Git",
-      "Unity Input System",
     ],
-
-    category: "unity",
-    github: "https://github.com/patel24kishan/Crate-Ninja",
-    action: "https://ghosts24.itch.io/fruit-punch",
-    actionBtn: "Play",
-  },
-
-  {
-    id: 3,
-    title: "Ship Simulator",
-    date: "Dec 2023 - Jan 2024",
-    description:
-      "Enhanced existing 3D mobile project with upgrades and optimized game performance with in-game sorting logic utilizing Quicksort algorithm.",
-    image:
-      "https://static.vecteezy.com/system/resources/previews/000/451/918/non_2x/vector-isometric-models-of-ships.jpg",
-    tags: [
-      "Unity",
-      "C#",
-      "Cinemachine",
-      "Photoshop",
-      "Git",
-      "Unity Input System",
-    ],
-    category: "unity",
+    category: "game",
     github: "",
     action:
-      "https://play.google.com/store/apps/details?id=com.gcg.bigCruiseShip_GCG",
-    actionBtn: "Play Store",
+      "https://helpusdefend.com/?page_id=3109",
+    actionBtn: "Watch",
   },
-
-  {
-    id: 4,
-    title: "Paint it 3D",
-    date: "Sept 2019 - Dec 2019",
-    description:
-      "3D mobile game where players collect stars and paint a blank canvas with precision within various shapes for an enjoyable experience.",
-    image:
-      "https://gameforge.com/de-DE/littlegames/includes/images/games/3566_5eb3e34d61d21.jpg",
-    tags: ["Unity", "C#", "Blender", "UI Builder", "Photoshop"],
-    category: "unity",
-    github: "",
-    action: "https://apps.apple.com/us/app/kolor-it/id1477042251",
-    actionBtn: "Gameplay",
-  },
-
-  {
-    id: 5,
-    title: "Unity Tools",
-    date: "Dec 2023 - Jan 2024",
-    description:
-      "Acquiring Unity tool proficiency :- Unity cloud save and Addressable.",
-    image: "https://img.itch.zone/aW1nLzYwNjU4MDUuanBn/original/%2BMEce%2B.jpg",
-    tags: ["Unity", "C#", "Unity Cloud", "Addressables", "Telemetry", "Git"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/Unity-Tool-Demo",
-    action: "",
-    actionBtn: "",
-  },
-
-  {
-    id: 6,
-    title: "My Runner",
-    date: "July 2023 - July 2023",
-    description:
-      "Created horizontal endless runner Game for PC, similar to Chrome's Dino jumping game but in 3D.",
-    image:
-      "https://img.itch.zone/aW1nLzEzNDM3Njc4LnBuZw==/347x500/T9M7B%2B.png",
-    tags: ["Unity", "C#", "Unity Cloud", "Addressables", "Telemetry", "Git"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/My-Runner",
-    action: "",
-    actionBtn: "Play",
-  },
-
-  {
-    id: 7,
-    title: "Tic Tac Toe",
-    date: "July 2019",
-    description:
-      "Simple TicTacToe for mobile 2D game, with single and vs. Computer mode.",
-    image: "https://hd.wallpaperswide.com/thumbs/tic_tac_toe_game-t2.jpg",
-    tags: ["Unity", "C#", "UI Builder", "Photoshop"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/tictactoe",
-    action: "https://ghosts24.itch.io/tictactoe",
-    actionBtn: "Play",
-  },
-
-  {
-    id: 8,
-    title: "Galaxy Shooter",
-    date: "2018",
-    description:
-      "A classic 2D Unity PC game featuring enemy shooting mechanics and engaging power-ups for player enjoyment.",
-    image: "https://img.itch.zone/aW1nLzIyNzEwMDIucG5n/347x500/JMUHKM.png",
-    tags: ["Unity", "C#", "UI Builder", "Photoshop"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/GALAXY-SHOOTER",
-    action: "https://ghosts24.itch.io/galaxyshooter",
-    actionBtn: "Play",
-  },
-
-  {
-    id: 9,
-    title: "Infinite Racing",
-    date: "2018",
-    description:
-      "Vertical mobile 2D Unity game reminiscent of classic endless traffic racers.",
-    image: "https://img.itch.zone/aW1nLzk2NjA0NzYucG5n/347x500/eTpBn%2F.png",
-    tags: ["Unity", "C#", "UI Builder", "Photoshop"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/infiniteracing",
-    action: "https://ghosts24.itch.io/infinite-racing",
-    actionBtn: "Play",
-  },
-
-  {
-    id: 10,
-    title: "Tile Breaker",
-    date: "2018",
-    description:
-      "Built from scratch, Timeless 2D tile-breaking game for mobile with powerups",
-    image: "https://img.itch.zone/aW1nLzk2NjA0MTUucG5n/347x500/Avrkam.png",
-    tags: ["Unity", "C#", "UI Builder", "Photoshop"],
-    category: "unity",
-    github: "https://github.com/patel24kishan/tilebreaker",
-    action: "https://ghosts24.itch.io/tilebreaker",
-    actionBtn: "Play",
-  },
-
- 
 
   //Web Apps
   {
@@ -499,7 +312,7 @@ export const projects = [
     tags: ["ReactJs", "HTML", "CSS", "GitHub", "GitHub Pages", "Material-UI"],
     category: "webapp",
     github: "",
-    action: "https://patel24kishan.github.io/My-Portfolio/",
+    action: "https://patel24kishan.github.io/Work-Portfolio/",
     actionBtn: "WEBSITE",
   },
 
@@ -528,7 +341,7 @@ export const projects = [
     title: "My Digital Locker",
     date: "Sept 2021 - Dec 2021",
     description:
-      "Developed multi-cloud digital locker application that supports MFA for users login, to access funds and highlight its transaction with dashboard.",
+      "Serverless multi-cloud application that supports MFA for users login, to access funds and highlight its transaction with dashboard.",
     image:
       "https://img.freepik.com/free-vector/cloud-network-system-background-vector-social-media-banner_53876-111850.jpg",
     tags: [
@@ -541,7 +354,7 @@ export const projects = [
       "AWS",
       "Google Cloud",
     ],
-    category: "webapp",
+    category: "softdev",
     github: "https://github.com/patel24kishan/Digital-Locker",
     action: "",
     actionBtn: "More",
@@ -563,7 +376,7 @@ export const projects = [
       "Hibernate/JPA",
       "JUnit",
     ],
-    category: "webapp",
+    category: "softdev",
     github: "https://github.com/patel24kishan/Hospital-Management-System",
     action: "",
     actionBtn: "More",
@@ -593,22 +406,20 @@ export const education = [
 
 export const certificate = [
   {
-    id: 0,
+    id: 3,
     title: "Unity Junior Programmer",
     date: "Sept 19 2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    description:"",
     image:
       "https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png",
     certificate_url:
       "https://www.credly.com/badges/508d3f6b-cadd-40d1-91aa-7f782c8beebe/public_url",
   },
   {
-    id: 1,
+    id: 0,
     title: "AWS Solution Architect - Associate",
     date: "16 Feb 2023 - 16 Feb 2027",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    description:"",
     image:
       "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png",
     certificate_url:
@@ -616,11 +427,10 @@ export const certificate = [
   },
 
   {
-    id: 2,
+    id: 1,
     title: "AWS Developer - Associate",
     date: "14 Dec 2023 - 14 Dec 2026",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    description:"",
     image:
       "https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png",
     certificate_url:

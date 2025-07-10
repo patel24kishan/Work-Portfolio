@@ -22,13 +22,13 @@ const Projects = () => {
         {projectToggle === "softdev" ? (
             <ProjectToggleButton
               active
-              onClick={() => setProjectToggle("webapp")}
+              onClick={() => setProjectToggle("softdev")}
             >
-              Software Apps
+              Cloud Apps
             </ProjectToggleButton>
           ) : (
-            <ProjectToggleButton onClick={() => setProjectToggle("webapp")}>
-              Software Apps
+            <ProjectToggleButton onClick={() => setProjectToggle("softdev")}>
+              Cloud Apps
             </ProjectToggleButton>
           )}
          
@@ -52,22 +52,22 @@ const Projects = () => {
           {projectToggle === "game" ? (
             <ProjectToggleButton
               active
-              value="unity"
-              onClick={() => setProjectToggle("unity")}
+              value="game"
+              onClick={() => setProjectToggle("game")}
             >
-              Games
+              Mobile 
             </ProjectToggleButton>
           ) : (
             <ProjectToggleButton
-              value="unity"
-              onClick={() => setProjectToggle("unity")}
+              value="game"
+              onClick={() => setProjectToggle("game")}
             >
-              Games
+              Mobile
             </ProjectToggleButton>
           )}
 
           <ProjectDivider />
-          
+
           {projectToggle === "all" ? (
             <ProjectToggleButton active onClick={() => setProjectToggle("all")}>
               All
