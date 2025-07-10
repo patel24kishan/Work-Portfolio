@@ -34,8 +34,8 @@ const Profile=()=>{
       {/* Other content in the column can go here */}
 
       <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '2px' }}>
-      <ResumeButton href={Bio.resume_gamedeveloper} target="_blank">  R E S U M E </ResumeButton>
-       <ItchButton href={Bio.itchio} target="_blank">  I t c h . i o  </ItchButton>
+      <ResumeButton href={Bio.resume_softwaredeveloper} target="_blank">  R E S U M E </ResumeButton>
+       <ItchButton href={Bio.github} target="_blank">  Github  </ItchButton>
       </div>
       </div>   
                     </ProfileLeftContainer>

@@ -7,11 +7,11 @@ export const Bio = {
   resume_gamedeveloper:
     "https://drive.google.com/file/d/1S5b_6PfrsLJlioTRo7EZbpLrTOmo26Ma/view?usp=drive_link",
   resume_softwaredeveloper:
-    "https://drive.google.com/file/d/1IDqMwEJxBzXq9XgQcefFmeDTMmLGUlZl/view?usp=drive_link",
+    "https://drive.google.com/file/d/1l7cMarSqHmm6BSdTXyiXgRIy6A-zQc-F/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kkishan2409/",
   email: "kishankahodariya.work@gmail.com",
   twitter: "",
-  itchio: "https://ghosts24.itch.io/",
+  github: "https://github.com/patel24kishan",
   discord: "",
   facebook: "",
   blog: "https://www.speakless.blog/",
