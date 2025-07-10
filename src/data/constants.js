@@ -250,7 +250,7 @@ export const projects = [
     tags: ["Unity", "C#", "Photon", "Unity Cloud"],
     category: "game",
     github: "",
-    action: "https://https://scarfall.in/.itch.io/galaxyshooter",
+    action: "https://scarfall.in/",
     actionBtn: "Play",
   },
 
@@ -272,7 +272,7 @@ export const projects = [
     category: "game",
     github: "",
     action:
-      "https://helpusdefend.com/?page_id=3109",
+      "https://helpusdefend.com/?page_id=7341",
     actionBtn: "Watch",
   },
 
