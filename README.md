@@ -1,6 +1,10 @@
-# 💻 Kishan Kahodariya's Software Development Portfolio
+# 💻 Kishan's Work Portfolio
 
-Welcome to my personal software development portfolio! I'm a passionate and experienced developer with a focus on crafting scalable, efficient, and user-centered applications. With professional experience in full-stack development, microservices architecture, game development, and cloud-based solutions, I love bringing ideas to life through clean code and thoughtful design.
+## 🧠 What I Believe
+
+I strive for clarity, collaboration, and continuous learning. 
+
+I'm a passionate and experienced developer with a focus on crafting scalable, efficient, and user-centered applications. With professional experience in full-stack development, microservices architecture, game development, and cloud-based solutions, I love bringing ideas to life through clean code and thoughtful design. Whether I’m building backend services, prototyping game mechanics, or launching a creative brand, my focus remains the same: build with purpose, maintain with pride.
 
 ---
 
@@ -14,11 +18,7 @@ Welcome to my personal software development portfolio! I'm a passionate and expe
 - **Tools & Practices:** Agile/Scrum, Git, CI/CD, Microservice Architecture, TDD, Static Code Analysis
 
 
-## 🧠 What I Believe
 
-I strive for clarity, collaboration, and continuous learning. Whether I’m building backend services, prototyping game mechanics, or launching a creative brand, my focus remains the same: build with purpose, maintain with pride.
-
----
 
 ## 📫 Contact
 
