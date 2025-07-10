@@ -17,44 +17,7 @@ export const Bio = {
 };
 
 export const skills = [
-  {
-    title: "Game Dev",
-    skills: [
-      {
-        name: "Unity3D",
-        image: "",
-      },
-      {
-        name: "Unreal Engine",
-        image: "",
-      },
-      {
-        name: "AR/VR",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-      },
-      {
-        name: "Netcode",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
-      {
-        name: "Photon",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
-      {
-        name: "Unity Cloud",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
-      {
-        name: "Git",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
-    ],
-  },
+  
   {
     title: "Programming",
     skills: [
@@ -141,6 +104,29 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "Game Dev",
+    skills: [
+      {
+        name: "Unity3D",
+        image: "",
+      },
+      {
+        name: "Unreal",
+        image: "",
+      },
+      {
+        name: "Unity Cloud",
+        image:
+          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+      },
+      {
+        name: "Git",
+        image:
+          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+      },
+    ],
+  },
   
 ];
 
@@ -197,7 +183,7 @@ export const experiences = [
   },
   {
     id: 99,
-    img: "https://media.licdn.com/dms/image/C560BAQFi2lc_IOfaGQ/company-logo_200_200/0/1656594783502/achievers_logo?e=1717027200&v=beta&t=BJrwNA3XKPSsOK7E8HB5g2zMJnVQdIpoNJmKIWfEfqc",
+    img: "https://mma.prnewswire.com/media/74076/achievers_logo.jpg?p=facebook",
     role: "Software Developer Intern",
     company: "Achievers",
     date: "May - August 2022",
@@ -207,6 +193,16 @@ export const experiences = [
   },
   {
     id: 100,
+    img: "https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg",
+    role: "Software Developer, Freelance",
+    company: "Freelance",
+    date: "Jan 2021 - April 2022",
+    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+    skills: ["Python", "PHP", "Google cloud", "GraphQL", "pub/sub"],
+    doc: "",
+  },
+  {
+    id: 101,
     img: "https://media.glassdoor.com/sql/1759068/escrow-infotech-squarelogo-1559125938891.png",
     role: "Game Developer",
     company: "Xsquad Studios by Escrow Infotech",
