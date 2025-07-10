@@ -13,9 +13,9 @@ I'm a passionate and experienced developer with a focus on crafting scalable, ef
 - **Languages:** Java, C#, C++, JavaScript, Python  
 - **Frameworks:** Spring Boot, ASP.NET Core, Unity, Unreal Engine (Blueprints)  
 - **Web Technologies:** HTML5, CSS, AngularJS, ReactJS, SOAP/REST APIs  
-- **Cloud & DevOps:** Azure, Docker, Kubernetes, GitHub Actions, Jenkins  
+- **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
 - **Database:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Practices:** Agile/Scrum, Git, CI/CD, Microservice Architecture, TDD, Static Code Analysis
+- **Tools & Practices:** Agile/Scrum, Git, CI/CD, Microservice Architecture, Static Code Analysis
 
 
 
